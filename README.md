@@ -17,7 +17,7 @@ Search and generate random meals from the [themealdb.com](https://www.themealdb.
 ## Original preview
 
 <div style="margin-bottom:30px;text-align:center;display:flex; flex-direction:column;justify-content:center;" >
-    <img src="./img/07_preview.png" alt="Original preview">
+    <img src="./img/08_preview.png" alt="Original preview">
 </div>
 
 <!-- ## My solution preview
