@@ -20,7 +20,7 @@ Search and generate random meals from the [themealdb.com](https://www.themealdb.
     <img src="./img/08_preview.png" alt="Original preview">
 </div>
 
-<!-- ## My solution preview
+## My solution preview
 
 <div style="text-align:center;display:flex; flex-direction:column;justify-content:center;" >
     <img style="margin-bottom:10px" src="./img/my-solution-preview.png" alt="My solution preview">
@@ -28,11 +28,8 @@ Search and generate random meals from the [themealdb.com](https://www.themealdb.
 
 ## My solution features
 
-- Responsive design
 - Custom **UI/UX design**
-- Instead of drawing a hanged man, **scoops of ice cream decrease** from an ice cream cone (**5 attempts**). If only the cone remains, you lose. - _This is a less morbid version, suitable for children, for example_.
-- key words are **application**, **programming**, **interface**, **wizard**
-- after winning/losing a round, pressing (**enter** or **space**) starts a new round with a new word -->
+- Other features **are the same as** in the original Brad’s solution.
 
 # Author
 
